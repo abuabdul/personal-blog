@@ -11,8 +11,14 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/apps.css" rel="stylesheet">
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+   <!-- Font Awesome support for IE7 -->
+    <!--[if IE 7]>
+      <link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+    <![endif]-->
+
+   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
     <![endif]-->
@@ -32,14 +38,57 @@
             <p class="navbar-text pull-right">
             </p>
             <ul class="nav">
-              <li class="active"><a href="">Home</a></li>
-              <li><a href="https://blogs.abuabdul.com">blog</a></li>
-              <li><a href="http://www.linkedin.com/in/abubackersiddik">linkedin</a></li>
-              <li><a href="https://twitter.com/abubackersiddik">twitter</a></li>
-              <li><a href="https://trello.com/abubackersiddik">trello</a></li>
-              <li><a href="http://stackoverflow.com/users/2112490/abubacker-siddik">stackoverflow</a></li>
-              <li><a href="https://github.com/abuabdul">github</a></li>
-            </ul>
+              <li class="active">
+                 <a href="">
+                    <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-home"></i>
+					</span>
+                  </a>
+              </li>
+              <li><a href="https://blogs.abuabdul.com">
+                    <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-file-text"></i>
+					</span>
+                  </a>
+              </li>
+              <li><a href="http://www.linkedin.com/in/abubackersiddik">
+                   <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-linkedin"></i>
+					</span>
+                  </a>
+              </li>
+              <li><a href="https://twitter.com/abubackersiddik">
+                    <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-twitter"></i>
+					</span>
+                 </a>
+              </li>
+              <li><a href="https://trello.com/abubackersiddik">
+                   <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-trello"></i>
+					</span>
+                  </a>
+              </li>
+              <li><a href="http://stackoverflow.com/users/2112490/abubacker-siddik">
+                   <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-stackexchange"></i>
+					</span>
+                  </a>
+              </li>
+              <li><a href="https://github.com/abuabdul">
+                   <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-github"></i>
+					</span>
+			      </a>
+			  </li>
+			</ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
@@ -66,11 +115,11 @@
           <div class="hero-unit hero-unit_pad_change">
             <div class="row-fluid">
               <div class="span7">
-               <p>Hi there! I'm just practicing Java for couple of years. <br/>
+               <p>Hi there! I've been practicing Java for couple of years. <br/>
                   I do design and code Java based web applications. <br/> 
                   I started developing strong interests in Big Data/Hadoop technologies. <br/> <br/>
                   I am passionate about learning new technologies, frameworks and open source applications.
-                  I love to read books. I am confident guy and friendly in nature.
+                  I love to read books. I am a confident guy and friendly in nature.
                   </p>
               </div>
               <div class="span4">
@@ -85,19 +134,26 @@
                 <li class="active"><a href="#rA" data-toggle="tab">Java</a></li>
                 <li><a href="#rB" data-toggle="tab">Hadoop</a></li>
                 <li><a href="#rC" data-toggle="tab">Scala</a></li>
-                <li><a href="#rC" data-toggle="tab">JavaScript</a></li>
+                <li><a href="#rD" data-toggle="tab">JavaScript</a></li>
+                <li><a href="#rE" data-toggle="tab">XML</a></li>
               </ul>
               <div class="tab-content">
                 <div class="tab-pane active" id="rA">
                   <div class="span5">
-                     hello
+                     Core Java, Servlets, JSP, Weblogic, Tomcat, Jetty server, Spring, hibernate, Struts, DWR, MySQL, Oracle
                   </div>
                 </div>
                 <div class="tab-pane" id="rB">
-                  <p>Howdy, I'm in Section B.</p>
+                  <p>Hadoop MapReduce, HDFS, Pig</p>
                 </div>
                 <div class="tab-pane" id="rC">
-                  <p>What up girl, this is Section C.</p>
+                  <p>Core Scala, ScalaFX</p>
+                </div>
+                <div class="tab-pane" id="rD">
+                  <p>JQuery, Bootstrap</p>
+                </div>
+                <div class="tab-pane" id="rE">
+                  <p>Castor, Betwixt</p>
                 </div>
               </div>
             </div> <!-- /tabbable -->
@@ -105,7 +161,7 @@
           <div class="row-fluid">
             <div class="span4">
               <div class="recent_activity">
-               <h4>Recent Activities</h4>
+               <h4 style="color: #222; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);">Recent Activities</h4>
                <ul class="unstyled"> 
                  <li><a href="#">I started a book today..</a></li>
                </ul>
