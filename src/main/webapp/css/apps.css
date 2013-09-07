@@ -19,3 +19,43 @@ body {
 .hero-unit_pad_change {
 	padding: 30px;
 }
+
+.skills_eco {
+  position: relative;
+  margin: 15px 0;
+  padding: 39px 19px 14px;
+  *padding-top: 19px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+.skills_eco:after {
+  content: "Eco System";
+  position: absolute;
+  top: -1px;
+  left: 375px;
+  padding: 5px 10px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  color:  #0088cc; /* #9da0a4; */
+  -webkit-border-radius: 0px 0 4px 4px;
+     -moz-border-radius: 0px 0 4px 4px;
+          border-radius: 0px 0 4px 4px;
+}
+
+.recent_activity {
+  position: relative;
+  margin: 15px 0;
+  padding: 2px 19px 14px;
+  *padding-top: 0px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
