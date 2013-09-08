@@ -36,20 +36,30 @@
           <a class="brand" href="#">Abubacker Siddik</a>
           <div class="nav-collapse collapse">
             <p class="navbar-text pull-right">
+              <!-- Last Updated on 09/08/2013 -->
             </p>
             <ul class="nav">
               <li class="active">
-                 <a href="">
+                  <a href="abuabdul.com">
                     <span class="icon-stack"> 
 					     <i class="icon-check-empty icon-stack-base"></i> 
 					     <i class="icon-home"></i>
 					</span>
                   </a>
               </li>
+              <li class="tooltip-place">
+                  <a href="mailto:abuabdul@abuabdul.com" data-toggle="tooltip" data-placement="bottom" title="Write to me @ abuabdul@abuabdul.com">
+                    <span class="icon-stack"> 
+					     <i class="icon-check-empty icon-stack-base"></i> 
+					     <i class="icon-envelope"></i>
+					  </span>
+                  </a>
+              </li>
               <li><a href="https://blogs.abuabdul.com">
                     <span class="icon-stack"> 
 					     <i class="icon-check-empty icon-stack-base"></i> 
-					     <i class="icon-file-text"></i>
+					     <!-- <i class="icon-file-text"></i> -->
+					     <i class="icon-edit"></i>
 					</span>
                   </a>
               </li>
@@ -215,5 +225,16 @@
     <script src="js/bootstrap-collapse.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
+    <script type="text/javascript">
+		$(document).ready(function() {
+			// tooltips
+			$('.tooltip-place').tooltip({
+				selector : "a[data-toggle=tooltip]"
+			});
+
+			$('.tooltip-anchor').tooltip();
+
+		});
+	</script>
   </body>
 </html>
