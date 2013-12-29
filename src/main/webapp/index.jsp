@@ -11,6 +11,7 @@
     <meta http-equiv="cache-control" content="no-cache">
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="msvalidate.01" content="DD6D0FA1C43C0EF96FF8026EB4049C15" />
     <meta charset="UTF-8">
 
 <!-- Le styles -->
