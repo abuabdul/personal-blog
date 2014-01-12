@@ -4,12 +4,12 @@
 		<ul id="menunav" class="nav nav-list">
 			<li class="nav-header">Java</li>
 			<li><a href="#">Castor Exercise</a></li>
-			<li><a href="Knodex">Knodex</a></li>
+			<li><a href="https://blogs.abuabdul.com/2014/01/a-knowledge-indexing-tool-knodex/" target="_blank">Knodex</a></li>
 			<li class="nav-header">Scala</li>
 			<li><a href="#">ScalaFX Ensemble</a></li>
 			<li><a href="#">ThoughtWriter</a></li>
 			<li class="nav-header">Bootstrap</li>
-			<li><a href="bootstrap-showcase">Bootstrap Showcase</a></li>
+			<li><a href="https://blogs.abuabdul.com/2014/01/feature-showcase-bootstrap/" target="_blank">Bootstrap Showcase</a></li>
 		</ul>
 	</div>
 	<!--/.well -->

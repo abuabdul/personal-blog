@@ -7,7 +7,7 @@
     <meta name="description" content="This is a personal website of Abubacker Siddik A, to show case his technical skills, interests, projects, community contributions and current activities etc. This will express his profile to outer world to get recognition and identity.">
     <meta name="keywords" content="abuabdul, abubacker siddik, bigdata, hadoop, java, j2ee, scalafx, scala">
     <meta name="author" content="Abubacker Siddik A">
-    <meta name="copyright" content="&copy; abuabdul.com 2013">
+    <meta name="copyright" content="&copy; abuabdul.com 2013-2014">
     <meta http-equiv="cache-control" content="no-cache">
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,8 +15,7 @@
     <meta charset="UTF-8">
 
 <!-- Le styles -->
-    <!-- link rel="shortcut icon" href="images/me.JPG" type="image/jpg" 
-    <link rel="shortcut icon" type="image/x-icon" href="images/me.JPG" sizes="64x64" -->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"/>
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/apps.css" rel="stylesheet">
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
@@ -46,7 +45,7 @@
       <hr>
       
       <footer>
-        <p>&copy; abuabdul.com 2013</p>
+        <p>&copy; abuabdul.com 2013-2014</p>
       </footer>
     
     </div><!--/.fluid-container -->
