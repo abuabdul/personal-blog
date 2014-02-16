@@ -15,6 +15,14 @@
 	<!--/.well -->
 	<div class="well sidebar-nav shadow-box">
 		<ul id="menunav" class="nav nav-list">
+			<li class="nav-header">Community Activities</li>
+			<li><a href="#">Talk on HOF in Scala meetup</a></li>
+			<li class="text-right"><a href="#"><span
+					class="label label-info">Read More..</span></a></li>
+		</ul>
+	</div>
+	<div class="well sidebar-nav shadow-box">
+		<ul id="menunav" class="nav nav-list">
 			<li class="nav-header">Recent Activities</li>
 			<li><a href="#">Preparing for SCJP 1.6..</a></li>
 			<li><a href="#">Enrolled Algorithm class..</a></li>

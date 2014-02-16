@@ -3,12 +3,13 @@
 	<div class="row-fluid">
 		<div class="span7">
 			<p>
-				Hi there! I've been practicing Java for couple of years. <br /> I do
-				design and code Java based web applications. <br /> I started
-				developing strong interests in Big Data/Hadoop technologies. <br />
+				Hi! I am an expert in Java/J2EE Technologies. <br /> I 
+				design and code Java based web applications. <br /> I am also experienced 
+				in Big Data, Hadoop MapReduce framework. I focus towards data technologies 
+				that help solve big data problems. <br />
 				<br /> I am passionate about learning new technologies, frameworks
-				and open source applications. I love to read books. I am confident
-				and friendly in nature.
+				and open source applications. I love to read books. I am active in open 
+				source communities.
 			</p>
 		</div>
 		<div class="span4">
