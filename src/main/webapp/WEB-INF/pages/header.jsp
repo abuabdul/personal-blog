@@ -14,7 +14,7 @@
 					<!-- Last Updated on 09/08/2013 -->
 					<span class="tooltip-place"> <a href="#"
 						data-toggle="tooltip" data-placement="bottom"
-						title="as of 02/17/2014" class="label"> <i
+						title="as of 01/05/2016" class="label"> <i
 							class="icon-refresh"></i>
 					</a>
 					</span>
