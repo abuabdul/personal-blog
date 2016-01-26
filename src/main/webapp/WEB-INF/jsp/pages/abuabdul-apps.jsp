@@ -9,18 +9,13 @@
 			<div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 text-center">	
 
 				<!-- Site Title, your name, HELLO msg, etc. -->
-				<h1 class="title">Magister</h1>
-				<h2 class="subtitle">Free html5 template by GetTemplate</h2>
+				<h1 class="title">Abubacker Siddik A</h1>
+				<h2 class="subtitle">Developer, Open source enthusiast</h2>
 
 				<!-- Short introductory (optional) -->
 				<h3 class="tagline">
-					Potentially, the best place to tell people why they are here.<br>
-					So, this is a demo page built to showcase the beauty of the template.
+					Husband, Full Stack Java Developer, Scala, Big Data Enthusiast, Open Source Community Activist.
 				</h3>
-				
-				<!-- Nice place to describe your site in a sentence or two -->
-				<p><a href="/download/" class="btn btn-default btn-lg">Download template now</a></p>
-	
 			</div> <!-- /col -->
 		</div> <!-- /row -->
 	
@@ -28,10 +23,10 @@
 </section>
 
 <!-- Second (About) section -->
-<section class="section" id="about">
+<section class="section" id="techskills">
 	<div class="container">
 	
-		<h2 class="text-center title">About me</h2>
+		<h2 class="text-center title">Tech Skills</h2>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">    
 				<h5><strong>Where's my lorem ipsum?<br></strong></h5>
@@ -48,10 +43,10 @@
 </section>
 
 <!-- Third (Works) section -->
-<section class="section" id="themes">
+<section class="section" id="projectworks">
 	<div class="container">
 	
-		<h2 class="text-center title">More Themes</h2>
+		<h2 class="text-center title">My Works</h2>
 		<p class="lead text-center">
 			Huge thank you to all people who publish<br>
 			their photos at <a href="http://unsplash.com">Unsplash</a>, thank you guys!
@@ -103,7 +98,63 @@
 	</div>
 </section>
 
-<!-- Fourth (Contact) section -->
+<!-- Fourth (Blogs) section -->
+<section class="section" id="blogs">
+	<div class="container">
+	
+		<h2 class="text-center title">My Blogs</h2>
+		<p class="lead text-center">
+			Huge thank you to all people who publish<br>
+			their photos at <a href="http://unsplash.com">Unsplash</a>, thank you guys!
+		</p>
+		<div class="row">
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot1.jpg" alt="">
+					<div class="caption">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
+						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot4.jpg" alt="">
+					<div class="caption">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
+						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot5.jpg" alt="">
+					<div class="caption">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
+						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot3.jpg" alt="">
+					<div class="caption">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
+						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+</section>
+
+<!-- Fifth (Contact) section -->
 <section class="section" id="contact">
 	<div class="container">
 	
@@ -111,13 +162,17 @@
 
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 text-center">
-				<p class="lead">Have a question about this template, or want to suggest a new feature?</p>
+				<p class="lead">I am happy to hear from you.</p>
 				<p>Feel free to email me, or drop me a line in Twitter!</p>
-				<p><b>gt@gettemplate.com</b><br><br></p>
+				<p><b>abuabdul86@hotmail.com</b><br><br></p>
 				<ul class="list-inline list-social">
-					<li><a href="https://twitter.com/serggg" class="btn btn-link"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
-					<li><a href="https://github.com/pozhilov" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
-					<li><a href="http://linkedin/in/pozhilov" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a></li>
+					<li><a href="https://twitter.com/abubackersiddik" target="_blank" class="btn btn-link"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
+					<li><a href="https://github.com/abuabdul" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
+					<li><a href="https://www.linkedin.com/in/abubackersiddik" target="_blank" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a></li>
+				</ul>
+				<ul class="list-inline list-social">
+					<li><a href="http://stackoverflow.com/users/2112490/abubacker-siddik" target="_blank" class="btn btn-link"><i class="fa fa-stack-overflow fa-fw"></i> StackOverFlow</a></li>
+					<li><a href="https://trello.com/abubackersiddik" target="_blank" class="btn btn-link"><i class="fa fa-trello fa-fw"></i> Trello</a></li>
 				</ul>
 			</div>
 		</div>
