@@ -22,7 +22,7 @@
 	</div>
 </section>
 
-<!-- Second (About) section -->
+<!-- Second (Technical Skills) section -->
 <section class="section" id="techskills">
 	<div class="container">
 	
