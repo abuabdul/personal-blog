@@ -3,7 +3,7 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.abuabdul</groupId>
-	<artifactId>apps</artifactId>
+	<artifactId>abuabdul</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>Apps - Personal Website for abuabdul and project works</name>
@@ -183,7 +183,7 @@
 		</profile>
 	</profiles>
 	<build>
-		<finalName>apps</finalName>
+		<finalName>abuabdul</finalName>
 		<plugins>
 			<!-- Maven Compiler plugin -->
 			<plugin>
