@@ -14,25 +14,33 @@
  * limitations under the License.
  * 
  */
-package com.abuabdul.apps.controller;
 
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
+$(function() {
 
-/**
- * @author abuabdul
- *
- */
-@Controller
-public class AbuabdulLandingController {
+	if( $('#mylocationmap').length ) {
+		var map;
+       
+		map = new GMaps({
+			el: '#mylocationmap',
+			lat: 8.7021245,
+			lng: 77.7093673,
+			scrollwheel:false,
+			zoom: 17,
+			zoomControl : false,
+			panControl : false,
+			streetViewControl : false,
+			mapTypeControl: false,
+			overviewMapControl: false,
+			clickable: false
+		});
 
-	@RequestMapping(value = "/abuabdul.go")
-	public String landingPage() {
-		return "landingpage";
+		map.addMarker({
+			lat: 8.7021245,
+			lng: 77.7093673,
+			animation: google.maps.Animation.DROP,
+			verticalAlign: 'bottom',
+			horizontalAlign: 'center',
+			backgroundColor: '#3e8bff',
+		});
 	}
-
-	@RequestMapping(value = "/mylocation.go")
-	public String showMyLocation() {
-		return "mylocation";
-	}
-}
+});

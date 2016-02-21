@@ -29,70 +29,94 @@
 		<h2 class="text-center title">Tech Skills</h2>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">    
-				<h5><strong>Java/J2EE<br></strong></h5>
-				<p>
-				   Spring</br>
-				   Hibernate</br>
-				   JPA</br>
-				   Struts</br>
-				   Servlet</br>
-				   JSP</br>
-				</p>    
+				<div class="thumbnail">
+					<div class="caption">
+						<h3>Java/J2EE</h3>
+						<p>
+						   Spring</br>
+						   Hibernate</br>
+						   JPA</br>
+						   Struts</br>
+						   Servlet</br>
+						   JSP</br>
+						</p> 
+					</div>
+				</div>     
 			</div>
 			<div class="col-sm-4">
-				<h5><strong>Web Applications<br></strong></h5>
-				<p>
-				   Bootstrap</br>
-				   JavaScript</br>
-				   JQuery</br>
-				   HTML5</br>
-				   CSS3</br>
-				</p>  
+				<div class="thumbnail">
+					<div class="caption">
+						<h3>Web Applications</h3>
+						<p>
+						   Bootstrap</br>
+						   JavaScript</br>
+						   JQuery</br>
+						   HTML5</br>
+						   CSS3</br>
+						</p>  
+					</div>
+				</div> 
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">    
-				<h5><strong>Databases<br></strong></h5>
-				<p>
-				   Oracle</br>
-				   MySQL</br>
-				   MongoDB</br>
-				</p>    
+				<div class="thumbnail">
+					<div class="caption">
+						<h3>Databases</h3>
+						<p>
+						   Oracle</br>
+						   MySQL</br>
+						   MongoDB</br>
+						</p>  
+					</div>
+				</div>  
 			</div>
 			<div class="col-sm-4">
-				<h5><strong>Big Data<br></strong></h5>
-				<p>
-				   Hadoop</br>
-				   Hive</br>
-				   Pig</br>
-				   HBase</br>
-				   Sqoop</br>
-				   R</br>
-				</p>  
+				<div class="thumbnail">
+					<div class="caption">
+							<h3>Big Data</h3>
+							<p>
+							   Hadoop</br>
+							   Hive</br>
+							   Pig</br>
+							   HBase</br>
+							   Sqoop</br>
+							   R</br>
+							</p> 
+					</div>
+				 </div>	
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">    
-				<h5><strong>SDLC Management<br></strong></h5>
-				<p>
-				   Agile</br>
-				   TDD</br>
-				   Git/SVN/CVS</br>
-				   TeamCity/Travis CI</br>
-				   TestNG</br>
-				   Mockito</br>
-				   JUnit</br>
-				   Hamcrest</br>
-				</p>    
+				<div class="thumbnail">
+					<div class="caption">
+						<h3>SDLC Management</h3>
+						<p>
+						   Agile</br>
+						   TDD</br>
+						   Git/SVN/CVS</br>
+						   TeamCity/Travis CI</br>
+						   TestNG</br>
+						   Mockito</br>
+						   JUnit</br>
+						   Hamcrest</br>
+						</p>  
+					</div>
+				</div>  
 			</div>
 			<div class="col-sm-4">
-				<h5><strong>Others<br></strong></h5>
-				<p>
-				   Scala</br>
-				   Thunderhead</br>
-				   Alfresco</br>
-				   Openshift PaaS</br>
-				</p> 
+				<div class="thumbnail">
+					<div class="caption">
+						<h3>Others</h3>
+						<p>
+						   Scala</br>
+						   Thunderhead</br>
+						   Alfresco</br>
+						   Openshift PaaS</br>
+						</p> 
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -110,7 +134,6 @@
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
 						<h3>Knodex</h3>
 						<p>A Knowledge Indexing Tool</p>
@@ -121,7 +144,6 @@
 			</div>
 			<div class="col-sm-4">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
 						<h3>bootstrap-showcase</h3>
 						<p>Web page/ blog that talks about various bootstrap features and showcasing bootstrap</p>
@@ -132,7 +154,6 @@
 			</div>
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
 						<h3>FourT</h3>
 						<p>FourT is lightweight application to track resource task details</p>
@@ -143,7 +164,6 @@
 			</div>
 			<div class="col-sm-4">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
 						<h3>note-dovn</h3>
 						<p>An Application to note down notes, scratch notes kind of application developed in java</p>
@@ -154,7 +174,6 @@
 			</div>
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
 						<h3>myTravelPal</h3>
 						<p>myTravelPal is a calendar view application to show my travel plans</p>
@@ -165,7 +184,6 @@
 			</div>
 			<div class="col-sm-4">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
 						<h3>Munstalk</h3>
 						<p>A talk application to chat between loved ones</p>
@@ -176,7 +194,6 @@
 			</div>
 			<div class="col-sm-8 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
 						<h3>Forked Projects</h3>
 						<p>Tamil Stemmer Project written in Scala</p>
@@ -187,7 +204,6 @@
 			</div>
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
 						<h3>doBizText</h3>
 						<p>Text SMS sender App for small retail businesses</p>
@@ -198,7 +214,6 @@
 			</div>
 			<div class="col-sm-4">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
 						<h3>Castor-Exercise</h3>
 						<p>Castor Exercise is a wrapper api for Castor XML Data binding framework</p>
@@ -209,7 +224,6 @@
 			</div>
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
 						<h3>ThoughtWriter</h3>
 						<p>Small application developed on top of ScalaFX!!</p>
@@ -233,7 +247,6 @@
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
 						<h3>My Blog</h3>
 						<p>Haven to share my personal and professional experiences</p>
@@ -264,8 +277,9 @@
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 text-center">
 				<p class="lead">I am happy to hear from you.</p>
-				<p>Feel free to email me, or drop me a line in Twitter!</p>
-				<p><b>abuabdul86@hotmail.com</b><br><br></p>
+				<p>Feel free to email me, or tweet in Twitter!</p>
+				<p><b>abuabdul86@hotmail.com</b>&nbsp;
+				<b><a href="<c:url value='/mylocation.go'/>" class="btn btn-default" role="button">Locate Me</a><br><br></p>
 				<ul class="list-inline list-social">
 					<li><a href="https://twitter.com/abubackersiddik" target="_blank" class="btn btn-link"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
 					<li><a href="https://github.com/abuabdul" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
@@ -277,6 +291,4 @@
 				</ul>
 			</div>
 		</div>
-
-	</div>
 </section>

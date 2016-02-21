@@ -8,7 +8,7 @@
 			<button type="button" class="navbar-toggle" data-toggle="dropdown"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			<!-- <a data-toggle="dropdown" href="#">Dropdown trigger</a> -->
 			<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-				<li><a href="#head" class="active">Who Am I?</a></li>
+				<li><a href="#head" class="active">About Me</a></li>
 				<li><a href="#techskills">Technical Skills</a></li>
 				<li><a href="#projectworks">Project Works</a></li>
 				<li><a href="#blogs">Blogs</a></li>
