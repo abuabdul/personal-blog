@@ -48,17 +48,18 @@
 	
 		<h2 class="text-center title">My Works</h2>
 		<p class="lead text-center">
-			Huge thank you to all people who publish<br>
-			their photos at <a href="http://unsplash.com">Unsplash</a>, thank you guys!
+			I love coding. When I find time, here is what I do.<br>
+			Thanks to Github and Bitbucket!
 		</p>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
 					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>Knodex</h3>
+						<p>A Knowledge Indexing Tool</p>
+						<p><a href="https://github.com/abuabdul/Knodex" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/Knodex" target="_blank" class="btn btn-default" role="button">App</a></p>
 					</div>
 				</div>
 			</div>
@@ -66,35 +67,102 @@
 				<div class="thumbnail">
 					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>bootstrap-showcase</h3>
+						<p>Web page/ blog that talks about various bootstrap features and showcasing bootstrap</p>
+						<p><a href="https://github.com/abuabdul/bootstrap-showcase" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/bootstrap-showcase" target="_blank" class="btn btn-default" role="button">App</a></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot5.jpg" alt="">
+					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>FourT</h3>
+						<p>FourT is lightweight application to track resource task details</p>
+						<p><a href="https://github.com/abuabdul/FourT" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/FourT" target="_blank" class="btn btn-default" role="button">App Yet To Be Live</a></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-4">
 				<div class="thumbnail">
-					<img src="assets/screenshots/sshot3.jpg" alt="">
+					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>note-dovn</h3>
+						<p>An Application to note down notes, scratch notes kind of application developed in java</p>
+						<p><a href="https://github.com/abuabdul/note-dovn" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/note-dovn" target="_blank" class="btn btn-default" role="button">App Yet To Be Live</a></p>
 					</div>
 				</div>
 			</div>
-
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot1.jpg" alt="">
+					<div class="caption">
+						<h3>myTravelPal</h3>
+						<p>myTravelPal is a calendar view application to show my travel plans</p>
+						<p><a href="https://github.com/abuabdul/myTravelPal" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/myTravelPal" target="_blank" class="btn btn-default" role="button">App In Progress</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot4.jpg" alt="">
+					<div class="caption">
+						<h3>Munstalk</h3>
+						<p>A talk application to chat between loved ones</p>
+						<p><a href="https://github.com/abuabdul/Munstalk" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/Munstalk" target="_blank" class="btn btn-default" role="button">App In Progress</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot4.jpg" alt="">
+					<div class="caption">
+						<h3>Forked Projects</h3>
+						<p>Tamil Stemmer Project written in Scala</p>
+						<p><a href="https://github.com/abuabdul/vaerCholScala" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="https://github.com/prassee/vaerCholScala" target="_blank" class="btn btn-default" role="button">Forked From</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot1.jpg" alt="">
+					<div class="caption">
+						<h3>doBizText</h3>
+						<p>Text SMS sender App for small retail businesses</p>
+						<p><a href="https://github.com/abuabdul/doBizText" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="http://abuabdul.com/doBizText" target="_blank" class="btn btn-default" role="button">App In Progress</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot4.jpg" alt="">
+					<div class="caption">
+						<h3>Castor-Exercise</h3>
+						<p>Castor Exercise is a wrapper api for Castor XML Data binding framework</p>
+						<p><a href="https://github.com/abuabdul/Castor-Exercise" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="#" target="_blank" class="btn btn-default" role="button">App Demo Not Available</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+					<img src="assets/screenshots/sshot1.jpg" alt="">
+					<div class="caption">
+						<h3>ThoughtWriter</h3>
+						<p>Small application developed on top of ScalaFX!!</p>
+						<p><a href="https://github.com/abuabdul/ThoughtWriter" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
+						<a href="#" target="_blank" class="btn btn-default" role="button">App Demo Not Available</a></p>
+					</div>
+				</div>
+			</div>
 		</div>
-
 	</div>
 </section>
 
@@ -104,17 +172,16 @@
 	
 		<h2 class="text-center title">My Blogs</h2>
 		<p class="lead text-center">
-			Huge thank you to all people who publish<br>
-			their photos at <a href="http://unsplash.com">Unsplash</a>, thank you guys!
+			Occasionally I enjoy writing. Find my blogs below.
 		</p>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">
 				<div class="thumbnail">
 					<img src="assets/screenshots/sshot1.jpg" alt="">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>My Blog</h3>
+						<p>Haven to share my personal and professional experiences</p>
+						<p><a href="https://blogs.abuabdul.com" class="btn btn-default" target="_blank" role="button">My Blog</a></p>
 					</div>
 				</div>
 			</div>
@@ -122,35 +189,13 @@
 				<div class="thumbnail">
 					<img src="assets/screenshots/sshot4.jpg" alt="">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>Tech Blog</h3>
+						<p>Technology next to my keyboard exposures</p>
+						<p><a href="http://techie.abuabdul.com" class="btn btn-default" target="_blank" role="button">Tech Blog</a></p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4 col-sm-offset-2">
-				<div class="thumbnail">
-					<img src="assets/screenshots/sshot5.jpg" alt="">
-					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<img src="assets/screenshots/sshot3.jpg" alt="">
-					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque doloribus enim vitae nam cupiditate eius at explicabo eaque facere iste.</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-					</div>
-				</div>
-			</div>
-
 		</div>
-
 	</div>
 </section>
 
