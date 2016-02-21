@@ -376,10 +376,43 @@ a:hover, a:active {
 /*                   abuabdul theme                        */
 /***********************************************************/
 #mylocationmap {
-	width: 700px;
-	height: 500px;
+    position: relative;
+    padding-bottom: 80.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
 }
 
 #location {
-	margin-top: 55px;
+	margin-top: 52px;
+}
+
+.navbar-inverse {
+	background-color: #eee;
+	opacity: 0.4;
+	filter: alpha(opacity = 40); /* For IE8 and earlier */
+}
+
+.navbar-inverse .navbar-brand {
+	color: #000;
+}
+
+.navbar-inverse a.navbar-brand:hover {
+	color: #5AA7AA;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #000;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: #5AA7AA;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar{
+	background-color: #000;
+}
+
+.navbar-collapse .collapse .in{
+  background-color: #eee;	
 }

@@ -22,21 +22,21 @@ $(function() {
        
 		map = new GMaps({
 			el: '#mylocationmap',
-			lat: 8.7021245,
-			lng: 77.7093673,
-			scrollwheel:false,
-			zoom: 17,
-			zoomControl : false,
-			panControl : false,
-			streetViewControl : false,
-			mapTypeControl: false,
-			overviewMapControl: false,
-			clickable: false
+			lat: 12.890982,
+			lng: 80.201864,
+			scrollwheel: true,
+			zoom: 15,
+			zoomControl : true,
+			panControl : true,
+			streetViewControl : true,
+			mapTypeControl: true,
+			overviewMapControl: true,
+			clickable: true
 		});
 
 		map.addMarker({
-			lat: 8.7021245,
-			lng: 77.7093673,
+			lat: 12.890982,
+			lng: 80.201864,
 			animation: google.maps.Animation.DROP,
 			verticalAlign: 'bottom',
 			horizontalAlign: 'center',
