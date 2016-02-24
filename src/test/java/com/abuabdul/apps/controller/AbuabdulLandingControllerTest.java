@@ -21,9 +21,10 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.view;
 import static org.springframework.test.web.servlet.setup.MockMvcBuilders.standaloneSetup;
 
-import org.junit.Before;
 import org.mockito.InjectMocks;
+import org.mockito.MockitoAnnotations;
 import org.springframework.test.web.servlet.MockMvc;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 /**
@@ -37,8 +38,9 @@ public class AbuabdulLandingControllerTest {
 
 	private MockMvc mockMvc;
 
-	@Before
+	@BeforeClass
 	public void init() {
+		MockitoAnnotations.initMocks(this);
 		mockMvc = standaloneSetup(abuabdulController).build();
 	}
 
