@@ -9,7 +9,7 @@
 <!--  Font Awesome  -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet"/>
 
-<link rel="shortcut icon" href="<c:url value='/resources/img/favicon.png'/>" type="image/x-icon"/>
+<link rel="shortcut icon" href="<c:url value='/resources/img/favicon.jpg'/>" type="image/x-icon"/>
 <link rel="icon" href="<c:url value='/resources/img/favicon.png'/>" type="image/x-icon">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
