@@ -1,7 +1,7 @@
 <meta content="utf-8" http-equiv="encoding">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="A personal website for abuabdul, that exhibits his project works, technical skills, interests etc" />
+<meta name="description" content="A personal website for abuabdul, that exhibits his project works, technical skills, interests, projects, community contributions and current activities etc" />
 <meta name="keywords" content="abuabdul, personal website, personal blog, project works, technical skills, java developer, hadoop, big data developer, abubacker siddik, bigdata, java, j2ee, scala" />
 <meta name="robots" content="index, follow" />
 <meta name="revisit-after" content="15 days" />

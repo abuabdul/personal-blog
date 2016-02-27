@@ -138,7 +138,8 @@
 						<h3>Knodex</h3>
 						<p>A Knowledge Indexing Tool</p>
 						<p><a href="https://github.com/abuabdul/Knodex" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
-						<a href="http://abuabdul.com/Knodex" target="_blank" class="btn btn-default" role="button">App</a></p>
+						<a href="http://abuabdul.com/Knodex" target="_blank" class="btn btn-default" role="button">App</a>
+						<a href="https://blogs.abuabdul.com/2014/01/a-knowledge-indexing-tool-knodex/" target="_blank" class="btn btn-default" role="button">Blog</a></p>
 					</div>
 				</div>
 			</div>
@@ -148,7 +149,8 @@
 						<h3>bootstrap-showcase</h3>
 						<p>Web page/ blog that talks about various bootstrap features and showcasing bootstrap</p>
 						<p><a href="https://github.com/abuabdul/bootstrap-showcase" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
-						<a href="http://abuabdul.com/bootstrap-showcase" target="_blank" class="btn btn-default" role="button">App</a></p>
+						<a href="http://abuabdul.com/bootstrap-showcase" target="_blank" class="btn btn-default" role="button">App</a>
+						<a href="https://blogs.abuabdul.com/2014/01/feature-showcase-bootstrap/" target="_blank" class="btn btn-default" role="button">Blog</a></p>
 					</div>
 				</div>
 			</div>
@@ -158,7 +160,7 @@
 						<h3>FourT</h3>
 						<p>FourT is lightweight application to track resource task details</p>
 						<p><a href="https://github.com/abuabdul/FourT" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
-						<a href="http://abuabdul.com/FourT" target="_blank" class="btn btn-default" role="button">App Yet To Be Live</a></p>
+						<a href="http://abuabdul.com/FourT" target="_blank" class="btn btn-default" role="button">App</a></p>
 					</div>
 				</div>
 			</div>
@@ -168,7 +170,7 @@
 						<h3>note-dovn</h3>
 						<p>An Application to note down notes, scratch notes kind of application developed in java</p>
 						<p><a href="https://github.com/abuabdul/note-dovn" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
-						<a href="http://abuabdul.com/note-dovn" target="_blank" class="btn btn-default" role="button">App Yet To Be Live</a></p>
+						<a href="http://abuabdul.com/note-dovn" target="_blank" class="btn btn-default" role="button">App</a></p>
 					</div>
 				</div>
 			</div>
