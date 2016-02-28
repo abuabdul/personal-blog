@@ -5,7 +5,7 @@
 
 <tiles-definitions>
 	<definition name="base.definition" template="/WEB-INF/layouts/layout.jsp">
-		<put-attribute name="title" value="Personal Website for abuabdul(Abubacker.Siddik.A)" />
+		<put-attribute name="title" value="abuabdul(Abubacker.Siddik.A)" />
 		<put-attribute name="metaTags" value="/WEB-INF/layouts/metaTags.jsp" />
 		<put-attribute name="siteHeaderInclude" value="/WEB-INF/jsp/includes/headerinclude.jsp"/>
 		<put-attribute name="topmenu" value="/WEB-INF/jsp/pages/topmenu.jsp"/>
