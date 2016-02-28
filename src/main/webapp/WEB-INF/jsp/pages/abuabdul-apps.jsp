@@ -281,7 +281,7 @@
 				<p class="lead">I am happy to hear from you.</p>
 				<p>Feel free to email me, or tweet in Twitter!</p>
 				<p><b>abuabdul86@hotmail.com</b>&nbsp;
-				<b><a href="<c:url value='/mylocation.go'/>" class="btn btn-default" role="button">Locate Me</a><br><br></p>
+				<b><a href="<c:url value='/mylocation.go'/>" class="btn btn-default" role="button">Locate Me</a><br><br></b></p>
 				<ul class="list-inline list-social">
 					<li><a href="https://twitter.com/abubackersiddik" target="_blank" class="btn btn-link"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
 					<li><a href="https://github.com/abuabdul" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
