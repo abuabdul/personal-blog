@@ -17,6 +17,10 @@
 
 $(function() {
 
+	$('[data-toggle="tooltip"]').tooltip({
+		  trigger: 'hover' 
+	  });
+
 	if( $('#mylocationmap').length ) {
 		var map;
        
@@ -42,5 +46,5 @@ $(function() {
 			horizontalAlign: 'center',
 			backgroundColor: '#3e8bff',
 		});
-	}
+    }
 });

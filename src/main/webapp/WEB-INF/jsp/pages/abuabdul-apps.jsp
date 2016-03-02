@@ -291,6 +291,9 @@
 					<li><a href="http://stackoverflow.com/users/2112490/abubacker-siddik" target="_blank" class="btn btn-link"><i class="fa fa-stack-overflow fa-fw"></i> StackOverFlow</a></li>
 					<li><a href="https://trello.com/abubackersiddik" target="_blank" class="btn btn-link"><i class="fa fa-trello fa-fw"></i> Trello</a></li>
 				</ul>
+				<ul class="list-inline list-social">
+					<li><a href="#" title="Latest as on Mar 01, 2016" data-toggle="tooltip" data-placement="bottom" class="btn btn-link"><i class="fa fa-refresh fa-fw"></i></a></li>
+				</ul>
 			</div>
 		</div>
 </section>
