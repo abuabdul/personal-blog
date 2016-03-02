@@ -14,7 +14,7 @@
 
 				<!-- Short introductory (optional) -->
 				<h3 class="tagline">
-					Husband, Full Stack Java Developer, Scala, Big Data Enthusiast, Open Source Community Activist.
+					Husband, Full Stack Java Developer, Scala, Big Data Enthusiast, Open Source Activist.
 				</h3>
 			</div> <!-- /col -->
 		</div> <!-- /row -->
