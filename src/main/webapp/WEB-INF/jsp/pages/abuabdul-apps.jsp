@@ -180,7 +180,7 @@
 						<h3>myTravelPal</h3>
 						<p>myTravelPal is a calendar view application to show my travel plans</p>
 						<p><a href="https://github.com/abuabdul/myTravelPal" target="_blank" class="btn btn-primary" role="button">Source Code</a> 
-						<a href="http://abuabdul.com/myTravelPal" target="_blank" class="btn btn-default" role="button">App In Progress</a></p>
+						<a href="http://abuabdul.com/myTravelPal" target="_blank" class="btn btn-default" role="button">App</a></p>
 					</div>
 				</div>
 			</div>
