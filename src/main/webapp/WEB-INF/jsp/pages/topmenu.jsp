@@ -1,7 +1,7 @@
 <%@ include file="/WEB-INF/jsp/includes/siteTags.jsp"%>
 <nav class="mainmenu">
     <div class="container">
-      <div class="pull-right">&copy; abuabdul.com 2013-2016</div>
+      <div class="pull-right">&copy; abuabdul.com 2013-<script>document.write(new Date().getFullYear());</script></div>
     </div>
 	<div class="container">
 		<div class="dropdown">
